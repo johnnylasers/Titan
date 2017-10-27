@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/Users/Excalibur/eclipse-workspace-laiprojects/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+194392889.index
+1234244087.index
+1451336758.index
+3691787537.index
+3638825529.index
+2393765160.index
+1883261947.index
